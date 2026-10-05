@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("526f1ba9ea8a328b8ff4.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("2d66b0dbdfa29c06a015.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("4f15dcea2137364766f0.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("f8352824b3c8bceb15a1.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("c15c755ccd3d95f66a86.ttf") format('truetype');
+}
