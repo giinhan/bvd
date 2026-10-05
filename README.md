@@ -21,6 +21,10 @@ http://localhost:8765 에서 확인하세요. `docs/index.html`을 직접 열어
 
 ## GitHub에 배포
 
+현재 연결된 저장소는 [giinhan/bvd](https://github.com/giinhan/bvd)이며, `main` 브랜치를 사용합니다. GitHub Pages는 **GitHub Actions** 방식으로 활성화되어 있습니다. 이후 `main`에 푸시하면 `docs` 폴더가 자동 배포됩니다. [배포 상태](https://github.com/giinhan/bvd/actions)에서 결과를 확인할 수 있습니다.
+
+다른 저장소에 새로 배포하려면:
+
 1. GitHub 저장소를 만들고 이 폴더의 파일을 업로드합니다.
 2. 저장소 Settings → Pages → Source에서 **GitHub Actions**를 선택합니다.
 3. 포함된 `.github/workflows/pages.yml`이 `docs` 폴더를 배포합니다.
